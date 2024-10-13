@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋 there, I'm Naveen</h1>
-<h3 align="center">Golang/Backend Developer from India🇮🇳</h3>
+<h3 align="center">Golang/Backend Developer from India 🇮🇳</h3>
 
 - 🌱 I’m currently learning **Golang, Microservices, Kubernetes**
 
